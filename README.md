@@ -1,1 +1,1 @@
-# mans_pirmais_rep
+# mans_pirmais_repo
